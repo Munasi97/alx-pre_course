@@ -11,3 +11,7 @@ Commit changes with a message.
 3. Collaboration is the base of a company 
 This was really fun, creating a branch.
 Learnt how to git checkout or rather switch between different branches.
+
+4. Collaboration: be up to date 
+Learnt how to be up to date in git, git pulling and making sure you 
+are git pulling in the correct directories or repositories.
